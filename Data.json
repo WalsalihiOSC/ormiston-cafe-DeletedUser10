@@ -1,49 +1,45 @@
 [
     {
-
         "name":"Chicken Burger",
         "price":"5.50",
         "category":"Sandwitch and Burgers"
-
     },
 
     {
-
         "name":"Meat Lovers",
-        "price":"5.50",
+        "price":"4.00",
         "category":"Sandwitch and Burgers"
-
     },
 
     {
-
         "name":"Chicken Sandwitch",
-        "price":"5.50",
+        "price":"3.00",
         "category":"Sandwitch and Burgers"
-
     },
     {
 
         "name":"Vege Sandwitch",
-        "price":"5.50",
+        "price":"2.50",
         "category":"Sandwitch and Burgers"
-
     },
 
     {
-
         "name":"Ham Sandwitch",
-        "price":"5.50",
+        "price":"4.50",
         "category":"Sandwitch and Burgers"
-
     },
     {
-
         "name":"Chicken Burger",
         "price":"5.50",
         "category":"Sandwitch and Burgers"
-
+    },
+    {
+        "name":"Beef Burger",
+        "price":"5.00",
+        "category":"Sandwitch and Burgers"
     }
+    
+
 
 
 ]
